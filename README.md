@@ -3,6 +3,9 @@ jspOraAdmin
 
 jsp oracle admin (single jsp file)
 
+Features
+--------
+
 * table list
 * execute query and result (table)
 
