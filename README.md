@@ -14,3 +14,7 @@ Features
 * execute DML
 
 <img src="http://guny.kr/wp/wp-content/uploads/2013/04/20130404231124.png" width="500"/>
+
+* table-info
+
+<img src="http://guny.kr/wp/wp-content/uploads/2013/04/20130406162015.png" width="500"/>
